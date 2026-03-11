@@ -1,4 +1,4 @@
-client.import socket
+import socket
 import threading
 import os
 
